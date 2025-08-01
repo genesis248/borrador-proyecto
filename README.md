@@ -85,10 +85,3 @@ La aplicación se desarrollará inicialmente como una **aplicación web progresi
 
 ---
 
-## Cómo ejecutar la app
-
-1. Clona el repositorio desde GitHub
-2. Abre el proyecto en tu entorno de desarrollo
-3. Instala las dependencias (si aplica)
-4. Ejecuta el servidor o la app según la tecnología usada
-
